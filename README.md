@@ -13,8 +13,6 @@
 
 <div>
   <a href="https://www.instagram.com/brs_pl4y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
-  <a href="https://discord.gg/NAWEwjWxAn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="external"></a> 
-  <a href = "mailto:brunosilvaddr24@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
 </div>
 
-![](https://thumbs.gfycat.com/AdorableHandmadeGelada-size_restricted.gif)
+![Gif](https://media1.tenor.com/m/BP3ScZX1CLcAAAAd/rimuru-rimuru-tempest.gif)

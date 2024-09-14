@@ -1,5 +1,7 @@
 ## Welcome to my profile!
 
+`rgb(9, 105, 218)`
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRUN0R2&show_icons=true&theme=highcontrast&hide)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUN0R2&layout=compact&theme=highcontrast&hide)](https://github.com/anuraghazra/github-readme-stats)
 

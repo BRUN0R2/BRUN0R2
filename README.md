@@ -1,11 +1,5 @@
 ## Welcome to my profile!
 
-## Demonstração
-
-![GIF de Demonstração](https://link-para-gif.com/demo.gif)
-
-![Gif](https://media1.tenor.com/m/BP3ScZX1CLcAAAAd/rimuru-rimuru-tempest.gif)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRUN0R2&show_icons=true&theme=highcontrast&hide)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUN0R2&layout=compact&theme=highcontrast&hide)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -18,4 +18,4 @@
 </div>
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> This mod is just a test and is not the final version yet.

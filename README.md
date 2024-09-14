@@ -14,3 +14,5 @@
 <div>
   <a href="https://www.instagram.com/brs_pl4y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
 </div>
+
+![Rimuru](https://motionbgs.com/media/3595/rimuru-tempest-demon.jpg)

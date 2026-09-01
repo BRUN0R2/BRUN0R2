@@ -35,7 +35,6 @@
 ## Selected work
 
 - **[Codex Desktop Next](https://github.com/BRUN0R2/codex-app)** — a native Windows client built with Rust, Tauri, TypeScript and SolidJS.
-- **[NextClient](https://github.com/BRUN0R2/NextClient)** — Counter-Strike 1.6 client technology with extended gameplay and developer APIs.
 - **[ReZombie](https://github.com/BRUN0R2/rezombie)** — a modern Zombie Plague experience for Counter-Strike 1.6 and GoldSource.
 
 ## GitHub activity

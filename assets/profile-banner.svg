@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">BRUN0 developer profile banner</title>
+  <desc id="desc">Native systems, desktop products and game tooling with C++26, Rust, Tauri and TypeScript.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14" />
+      <stop offset="0.55" stop-color="#0B1220" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1040 62) rotate(135) scale(330 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.24" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(730 360) rotate(-70) scale(310 480)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#60A5FA" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity="0.075" />
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" />
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="24" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)" />
+    <rect width="1200" height="320" fill="url(#grid)" />
+    <rect width="1200" height="320" fill="url(#cyanGlow)" />
+    <rect width="1200" height="320" fill="url(#blueGlow)" />
+
+    <path d="M0 0H1200V320H0Z" fill="none" stroke="#334155" stroke-opacity="0.72" stroke-width="2" />
+    <rect x="54" y="50" width="46" height="5" rx="2.5" fill="url(#accent)" />
+
+    <text x="54" y="128" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="2">BRUN0</text>
+    <text x="56" y="167" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3.4">NATIVE SYSTEMS  ·  DESKTOP PRODUCTS  ·  GAME TOOLING</text>
+
+    <g transform="translate(54 207)" font-family="Cascadia Code, Consolas, monospace" font-size="14" font-weight="600">
+      <g>
+        <rect width="94" height="38" rx="19" fill="#172033" stroke="#334155" />
+        <circle cx="21" cy="19" r="4" fill="#60A5FA" />
+        <text x="34" y="24" fill="#E2E8F0">C++26</text>
+      </g>
+      <g transform="translate(106)">
+        <rect width="88" height="38" rx="19" fill="#172033" stroke="#334155" />
+        <circle cx="21" cy="19" r="4" fill="#F8FAFC" />
+        <text x="34" y="24" fill="#E2E8F0">Rust</text>
+      </g>
+      <g transform="translate(206)">
+        <rect width="94" height="38" rx="19" fill="#172033" stroke="#334155" />
+        <circle cx="21" cy="19" r="4" fill="#22D3EE" />
+        <text x="34" y="24" fill="#E2E8F0">Tauri</text>
+      </g>
+      <g transform="translate(312)">
+        <rect width="132" height="38" rx="19" fill="#172033" stroke="#334155" />
+        <circle cx="21" cy="19" r="4" fill="#3178C6" />
+        <text x="34" y="24" fill="#E2E8F0">TypeScript</text>
+      </g>
+    </g>
+
+    <g transform="translate(928 160)">
+      <circle r="108" fill="none" stroke="#334155" stroke-width="1.5" />
+      <circle r="76" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="6 9" />
+      <circle r="41" fill="#0F172A" stroke="url(#accent)" stroke-width="2" />
+      <circle r="14" fill="#22D3EE" opacity="0.18" filter="url(#softGlow)" />
+      <circle r="7" fill="#22D3EE" />
+      <path d="M-126 0H-42M42 0H126M0-126V-42M0 42V126" stroke="#475569" stroke-width="1" />
+      <g fill="#0B1220" stroke-width="2">
+        <circle cx="0" cy="-108" r="7" stroke="#60A5FA" />
+        <circle cx="94" cy="53" r="7" stroke="#22D3EE" />
+        <circle cx="-94" cy="53" r="7" stroke="#818CF8" />
+      </g>
+      <path d="M-20-10L-34 0-20 10M20-10L34 0 20 10" fill="none" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M7-17L-7 17" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" />
+    </g>
+
+    <text x="1080" y="291" text-anchor="end" fill="#64748B" font-family="Cascadia Code, Consolas, monospace" font-size="11" letter-spacing="1.5">BUILD  /  PROFILE  /  SHIP</text>
+  </g>
+</svg>
+

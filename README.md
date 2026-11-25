@@ -32,11 +32,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
-## Selected work
-
-- **[Codex Desktop Next](https://github.com/BRUN0R2/codex-app)** — a native Windows client built with Rust, Tauri, TypeScript and SolidJS.
-- **[ReZombie](https://github.com/BRUN0R2/rezombie)** — a modern Zombie Plague experience for Counter-Strike 1.6 and GoldSource.
-
 ## GitHub activity
 
 <p align="center">

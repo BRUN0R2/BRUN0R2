@@ -16,6 +16,30 @@
   <a href="https://www.paypal.com/donate/?hosted_button_id=UK8U6MGQCGJXN"><img src="https://img.shields.io/badge/Support-18181B?style=flat-square&logo=paypal&logoColor=white" alt="Support on PayPal" /></a>
 </div>
 
+## About me
+
+Hi, I'm Bruno (@BRUN0R2), a software engineer focused on native systems, desktop products, and game tooling. I build fast, performance-minded software where systems programming meets product design — primarily with **C++26**, **Rust**, **Tauri**, and **TypeScript**.
+
+- 📍 Icó, Ceará, Brazil
+- 📫 hello@brun0.dev (or open an issue here)
+- 💼 Open to collaboration on native clients, desktop apps, and game-engine tooling
+
+## How this profile is built
+
+This repository is a GitHub profile README. Everything you see is versioned here:
+
+* **`assets/profile-banner.svg`** — hand-written SVG banner (edited by hand).
+* **`profile/stats.svg`** — auto-generated GitHub stats card.
+* **`profile/top-langs.svg`** — auto-generated top-languages card.
+
+The two cards in `profile/` are regenerated on a daily schedule by the GitHub Actions workflow at
+`.github/workflows/profile-cards.yml` and committed back to `main`. They are marked as generated
+(see `.gitattributes`), so they are excluded from diffs and language statistics. Do not edit them by
+hand — any manual changes will be overwritten by the next scheduled run.
+
+This repository also validates its own deliverables: `.github/workflows/validate.yml` checks that every
+SVG is well-formed XML and that `README.md` is present, running on every push and pull request.
+
 ## Engineering focus
 
 - **Native systems** — modern C++26, low-level APIs and performance-sensitive software.
@@ -34,8 +58,13 @@
 
 ## Selected work
 
-- **[Codex Desktop Next](https://github.com/BRUN0R2/codex-app)** — a native Windows client built with Rust, Tauri, TypeScript and SolidJS.
-- **[ReZombie](https://github.com/BRUN0R2/rezombie)** — a modern Zombie Plague experience for Counter-Strike 1.6 and GoldSource.
+### [Codex Desktop Next](https://github.com/BRUN0R2/codex-app)
+A native Windows client built with Rust, Tauri, TypeScript and SolidJS. Desktop-first, local-by-design,
+and performance-oriented.
+
+### [ReZombie](https://github.com/BRUN0R2/rezombie)
+A modern Zombie Plague experience for Counter-Strike 1.6 and GoldSource. Client extensions, modding
+frameworks and developer tools for the GoldSource ecosystem.
 
 ## GitHub activity
 
@@ -48,3 +77,6 @@
   <sub>Language statistics describe public repository composition, not proficiency.</sub>
 </p>
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
